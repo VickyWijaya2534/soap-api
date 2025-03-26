@@ -1,3 +1,3 @@
-##Vicky Wijaya Nur Awaluddin
-  23091397136
-  2023D
+* **Nama Lengkap:** [Vicky Wijaya Nur Awaluddin]
+* **NIM:** [23091397136]
+* **Kelas:** [2023D]
